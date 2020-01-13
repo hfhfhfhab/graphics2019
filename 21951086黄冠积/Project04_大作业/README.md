@@ -12,3 +12,5 @@
 第三人称：
 
 ![image](https://github.com/hfhfhfhab/graphics2019/blob/hw_03/21951086%E9%BB%84%E5%86%A0%E7%A7%AF/Project04_%E5%A4%A7%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%89%E4%BA%BA%E7%A7%B0%E8%A7%86%E8%A7%92.gif)
+
+具体效果可参考文件夹下的两个视频文件
